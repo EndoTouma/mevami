@@ -7,7 +7,7 @@ python3 generate_list.py
 echo [2/3] Staging files for GitHub...
 
 :: Add the files to git
-git add data.json genres.json
+git add data.json genres.json config.json
 
 echo [3/3] Committing and pushing changes...
 
